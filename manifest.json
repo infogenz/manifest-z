@@ -1,0 +1,38 @@
+{
+  "name": "info gen-z",
+  "short_name": "infogenz.xyz",
+  "start_url": "https://www.infogenz.xyz/",
+  "display": "standalone",
+  "background_color": "#EAEAEA",
+  "theme_color": "#49a9a4",
+  "description": "Beragam informasi mengenai permasalahan generasi-z dan membahas motivasi, keuangan dan lainnya",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-iZ7PyB4LZGs/XmvnK6G_h7I/AAAAAAAAAsk/5AqUpst5WHoSzjAondZg4JDuRtGJokmwgCLcBGAsYHQ/s48/logo-igz-512.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-iZ7PyB4LZGs/XmvnK6G_h7I/AAAAAAAAAsk/5AqUpst5WHoSzjAondZg4JDuRtGJokmwgCLcBGAsYHQ/s72/logo-igz-512.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-iZ7PyB4LZGs/XmvnK6G_h7I/AAAAAAAAAsk/5AqUpst5WHoSzjAondZg4JDuRtGJokmwgCLcBGAsYHQ/s96/logo-igz-512.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-iZ7PyB4LZGs/XmvnK6G_h7I/AAAAAAAAAsk/5AqUpst5WHoSzjAondZg4JDuRtGJokmwgCLcBGAsYHQ/s144/logo-igz-512.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-iZ7PyB4LZGs/XmvnK6G_h7I/AAAAAAAAAsk/5AqUpst5WHoSzjAondZg4JDuRtGJokmwgCLcBGAsYHQ/s168/logo-igz-512.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-iZ7PyB4LZGs/XmvnK6G_h7I/AAAAAAAAAsk/5AqUpst5WHoSzjAondZg4JDuRtGJokmwgCLcBGAsYHQ/s192/logo-igz-512.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-iZ7PyB4LZGs/XmvnK6G_h7I/AAAAAAAAAsk/5AqUpst5WHoSzjAondZg4JDuRtGJokmwgCLcBGAsYHQ/s512/llogo-igz-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
